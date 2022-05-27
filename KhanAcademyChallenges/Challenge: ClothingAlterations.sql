@@ -1,3 +1,9 @@
+/*
+Clothing alterations
+Skills used: INSERT, UPDATE
+*/
+
+
 -- Step 1 we've created a database of clothes, and decided we need a price column. Use ALTER to add a 'price' column to the table.
 -- Then select all the columns in each row to see what your table looks like now.
 
